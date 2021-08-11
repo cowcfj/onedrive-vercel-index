@@ -21,4 +21,5 @@ module.exports = {
   images: {
     domains: ['public.dm.files.1drv.com'],
   },
+  target: 'experimental-serverless-trace'
 }
